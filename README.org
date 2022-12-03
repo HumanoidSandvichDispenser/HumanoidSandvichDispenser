@@ -1,4 +1,4 @@
 #+TITLE:
 
 #+attr_html: :style margin-left: auto; margin-right: auto;
-[[https://cdn.7tv.app/emote/61da918d82d5237d67960704/4x.webp]]
+[[./veryFors.gif]]
