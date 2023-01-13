@@ -2,3 +2,7 @@
 
 #+attr_html: :style margin-left: auto; margin-right: auto;
 [[./veryFors.gif]]
+
+~curl https://sandvich.xyz/sandvich.gpg | gpg --import~
+
+~1643 9496 7ED2 8385 A5FE DBCD 9A39 BE37 E602 B22D ~
