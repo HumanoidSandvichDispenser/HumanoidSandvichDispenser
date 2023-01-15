@@ -3,7 +3,7 @@
 #+attr_html: :style margin-left: auto; margin-right: auto;
 [[./veryFors.gif]]
 
-`<humanoidsandvichdispenser@gmail.com>`
+~<humanoidsandvichdispenser@gmail.com>~
 
 ~curl https://sandvich.xyz/sandvich.gpg | gpg --import~
 
